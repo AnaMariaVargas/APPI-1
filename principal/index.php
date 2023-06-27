@@ -11,8 +11,9 @@
     <h1>Proyecto BD</h1><hr>
    
     <?php include "./view/components/table.php"; ?>
+    <?php include "./view/components/form.php" ?>
+    <?php include "./view/components/result.php" ?>
 
-    <button onclick="http//localhost/phpmyadmin/index.php?route=/sql&db=appi-1&table=ususarios&pos=0">INSERTAR</button>
     
 </body>
 </html>
