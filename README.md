@@ -7,4 +7,7 @@
 <img src= "./public/images/imagen_base_de_datos.png "  alt="base de datos mysql" >
 
 <h3>Conexion a la base de datos</h3>
-<img scr="./public/images/img_conexion_base_de_datos.png"  alt="conexion base de datos">
+<img src="./public/images/onexion_base_de_datos.png "  alt="conexion base de datos ">
+
+<h3>Muestra de datos en pantalla</h3>
+<img src="./public/images/BD.png "  alt="muestra de datos en pantalla ">
